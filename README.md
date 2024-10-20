@@ -1,7 +1,7 @@
 {
-  "name": "",
+  "name": "LeighMSD",
   "website": "",
   "description": "",
   "logo": "",
-  "twitter": ""
+  "twitter": "https://x.com/Frisheigh?t=gA50rVGzkvb9Pj48eqLmAA&s=09"
 }
